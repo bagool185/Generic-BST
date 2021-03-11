@@ -1,0 +1,6 @@
+.vscode/
+build/
+cmake-build-debug/
+*.pdf
+tasks.json
+.idea/
